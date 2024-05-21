@@ -1,0 +1,4 @@
+Shao Xuan Lee
+contribution: writing the code, discussion
+Edmund Tan
+contribution: debugging the code, discussion
