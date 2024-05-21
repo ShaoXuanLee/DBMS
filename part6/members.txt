@@ -1,0 +1,4 @@
+Shao Xuan Lee
+contribution: wrote and debug insert and delete, discussion
+Edmund Tan
+contribution: wrote and debug select, discussion
